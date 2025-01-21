@@ -43,16 +43,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-[![GFACT Certification Badge](https://images.credly.com/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png)](https://www.credly.com/badges/67cd75e7-04b6-4ea5-bc4b-fd85c6b9f11b)
-
-
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/67cd75e7-04b6-4ea5-bc4b-fd85c6b9f11b"> <img src="https://images.credly.com/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" width="150" height="150" />  </a>
+<a href="https://www.credly.com/badges/8e85cac0-195b-4b75-b6df-b4f36f8c1925"> <img src="https://images.credly.com/size/680x680/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png" width="150" height="150" />  </a>
+<a href="https://www.credly.com/badges/eeb3dee0-0f8b-4e21-bc26-66c7e088dec4"> <img src="https://images.credly.com/size/680x680/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png" width="150" height="150" />  </a>
+<a href="https://www.credly.com/badges/000633e8-a833-4f22-bcc4-de1c647ce23d"> <img src="https://images.credly.com/size/680x680/images/b8200bcb-258a-4089-b43d-fe23dfdc3097/image.png" width="150" height="150" />  </a>
+<a href="https://www.credly.com/badges/03d5be00-83c4-47fe-bb47-dc182b5da08c"> <img src="https://images.credly.com/size/680x680/images/efd77bd2-ab34-4323-b427-47b3e7136029/image.png" width="150" height="150" />  </a>
 </div>
 
 ## Projects
