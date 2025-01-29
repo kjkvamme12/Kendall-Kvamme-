@@ -13,9 +13,9 @@ My path in computer science has sparked a deep passion for cybersecurity, and I 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Examination with Powershell           | <a href="https://github.com/kjkvamme12/Windows-Examination-with-Powershell-">Powershell Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| SIEM log searching with SQL | <a href="https://google.com](https://github.com/kjkvamme12/SIEM-Log-Searching-w-SQL">SQL Searching Lab</a>|
+| MISP Threat Intelligence Platform         | <a href="https://github.com/kjkvamme12/MISP-Threat-Intelligence-Platform">MISP Platform Lab</a>|
+| DNS Requests, Traffic, and Analysis      | <a href="https://github.com/kjkvamme12/DNS-Requests-Traffic-and-Analysis-">DNS Request Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
