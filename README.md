@@ -16,8 +16,7 @@ My path in computer science has sparked a deep passion for cybersecurity, and I 
 | SIEM log searching with SQL | <a href="https://github.com/kjkvamme12/SIEM-Log-Searching-w-SQL">SQL Searching Lab</a>|
 | MISP Threat Intelligence Platform         | <a href="https://github.com/kjkvamme12/MISP-Threat-Intelligence-Platform">MISP Platform Lab</a>|
 | DNS Requests, Traffic, and Analysis      | <a href="https://github.com/kjkvamme12/DNS-Requests-Traffic-and-Analysis-">DNS Request Lab</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Analyzing Malicious DNS                   | <a href="https://github.com/kjkvamme12/Analyzing-Malicious-DNS-">Malicious DNS</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
