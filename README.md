@@ -12,7 +12,7 @@ My path in computer science has sparked a deep passion for cybersecurity, and I 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Windows Examination with Powershell           | <a href="https://github.com/kjkvamme12/Windows-Examination-with-Powershell-">Powershell Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
