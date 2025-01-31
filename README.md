@@ -2,11 +2,19 @@
 <a href="https://www.linkedin.com/in/kendall-kvamme/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate of the SANS Technology Institute, where I earned an undergraduate certificate in Applied Cybersecurity. With a strong passion for technology and a commitment to solving complex problems, I am eager to apply my skills and knowledge in the cybersecurity field.
+I am a recent graduate of the SANS Technology Institute, where I earned an undergraduate certificate in Applied Cybersecurity. Earning my certificate in Applied cybersecurity, I was given a comprehensive understanding of the critical aspects of cybersecurity, including: network defense, threat analysis, and ethical hacking. The four GIAC certificates I earned combines both theoretical and hands-on learning to prepare me for various roles in cybersecurity including security analysts, network administrators, and ethical hackers. I am excited to constantly 
+With a strong passion for technology and a commitment to solving complex problems, I am eager to apply my skills and knowledge in the cybersecurity field.
 
 ## Objective
 
-My path in computer science has sparked a deep passion for cybersecurity, and I am now excited to transition into this field, with a specific goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
+My path in computer science has sparked a deep passion for cybersecurity, and I am now excited to transition into this field, with a specific goal of joining one of the entry-level positions: 
+- Security Operations Center (SOC) as a Tier 1 Analyst.
+- Cybersecurity Analyst
+- Security Analyst
+- SOC Analyst
+- Information Security Analyst
+- IT Security Analyst
+- Cyber Defense Analyst
 
 ## Skills
 
@@ -17,29 +25,10 @@ My path in computer science has sparked a deep passion for cybersecurity, and I 
 | MISP Threat Intelligence Platform         | <a href="https://github.com/kjkvamme12/MISP-Threat-Intelligence-Platform">MISP Platform Lab</a>|
 | DNS Requests, Traffic, and Analysis      | <a href="https://github.com/kjkvamme12/DNS-Requests-Traffic-and-Analysis-">DNS Request Lab</a>|
 | Analyzing Malicious DNS                   | <a href="https://github.com/kjkvamme12/Analyzing-Malicious-DNS-">Malicious DNS</a>|
+| Wireshark Analysis                        | <a href="https://github.com/kjkvamme12/Wireshark-and-HTTP-1.1-Analysis"> wireshark HTTP/1.1 Analysis</a>| 
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 <div>
@@ -50,6 +39,4 @@ My path in computer science has sparked a deep passion for cybersecurity, and I 
 <a href="https://www.credly.com/badges/03d5be00-83c4-47fe-bb47-dc182b5da08c"> <img src="https://images.credly.com/size/680x680/images/efd77bd2-ab34-4323-b427-47b3e7136029/image.png" width="150" height="150" />  </a>
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project# Kendall-Kvamme-
+
