@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/kendall-kvamme/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate of the SANS Technology Institute, where I earned an undergraduate certificate in Applied Cybersecurity. Earning my certificate in Applied cybersecurity, I was given a comprehensive understanding of the critical aspects of cybersecurity, including: network defense, threat analysis, and ethical hacking. The four GIAC certificates I earned combines both theoretical and hands-on learning to prepare me for various roles in cybersecurity including security analysts, network administrators, and ethical hackers. I am excited to constantly 
+I am a recent graduate of the SANS Technology Institute, where I earned an undergraduate certificate in Applied Cybersecurity. Earning my certificate in Applied cybersecurity, I was given a comprehensive understanding of the critical aspects of cybersecurity, including: network defense, threat analysis, and ethical hacking. The four GIAC certificates I earned combines both theoretical and hands-on learning to prepare me for various roles in cybersecurity including security analysts, network administrators, and ethical hackers. 
 With a strong passion for technology and a commitment to solving complex problems, I am eager to apply my skills and knowledge in the cybersecurity field.
 
 ## Objective
@@ -26,7 +26,7 @@ My path in computer science has sparked a deep passion for cybersecurity, and I 
 | DNS Requests, Traffic, and Analysis      | <a href="https://github.com/kjkvamme12/DNS-Requests-Traffic-and-Analysis-">DNS Request Lab</a>|
 | Analyzing Malicious DNS                   | <a href="https://github.com/kjkvamme12/Analyzing-Malicious-DNS-">Malicious DNS</a>|
 | Wireshark Analysis                        | <a href="https://github.com/kjkvamme12/Wireshark-and-HTTP-1.1-Analysis"> wireshark HTTP/1.1 Analysis</a>| 
-
+| HTTP/2 & HTTP/3 Analysis                  | <a href="https://github.com/kjkvamme12/HTTP-2-and-HTTP-3-Traffic-Analysis-/blob/main/README.md">HTTP/2 & HTTP/3 Analysis with Wireshark</a>|
 
 
 
